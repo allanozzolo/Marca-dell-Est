@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg9875"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="retro-ladro-bottino.svg"
+   enable-background="new">
+  <defs
+     id="defs9877">
+    <filter
+       id="filter10658"
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence10660"
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91" />
+      <feDisplacementMap
+         id="feDisplacementMap10662"
+         in2="result91"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter10782"
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence10784"
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91" />
+      <feDisplacementMap
+         id="feDisplacementMap10786"
+         in2="result91"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter10782-5"
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence10784-6"
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91" />
+      <feDisplacementMap
+         id="feDisplacementMap10786-2"
+         in2="result91"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter10851"
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence10853"
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91" />
+      <feDisplacementMap
+         id="feDisplacementMap10855"
+         in2="result91"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter10857"
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence10859"
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91" />
+      <feDisplacementMap
+         id="feDisplacementMap10861"
+         in2="result91"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter10863"
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence10865"
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91" />
+      <feDisplacementMap
+         id="feDisplacementMap10867"
+         in2="result91"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter10869"
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence10871"
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91" />
+      <feDisplacementMap
+         id="feDisplacementMap10873"
+         in2="result91"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter10875"
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence10877"
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91" />
+      <feDisplacementMap
+         id="feDisplacementMap10879"
+         in2="result91"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter10881"
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence10883"
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91" />
+      <feDisplacementMap
+         id="feDisplacementMap10885"
+         in2="result91"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter10887"
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence10889"
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91" />
+      <feDisplacementMap
+         id="feDisplacementMap10891"
+         in2="result91"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter10893"
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence10895"
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91" />
+      <feDisplacementMap
+         id="feDisplacementMap10897"
+         in2="result91"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter10899"
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence10901"
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91" />
+      <feDisplacementMap
+         id="feDisplacementMap10903"
+         in2="result91"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter10905"
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence10907"
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91" />
+      <feDisplacementMap
+         id="feDisplacementMap10909"
+         in2="result91"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter10911"
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence10913"
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91" />
+      <feDisplacementMap
+         id="feDisplacementMap10915"
+         in2="result91"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter11136"
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence11138"
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91" />
+      <feDisplacementMap
+         id="feDisplacementMap11140"
+         in2="result91"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter11136-1"
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence11138-8"
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91" />
+      <feDisplacementMap
+         id="feDisplacementMap11140-7"
+         in2="result91"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter11165"
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence11167"
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91" />
+      <feDisplacementMap
+         id="feDisplacementMap11169"
+         in2="result91"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter11171"
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence11173"
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91" />
+      <feDisplacementMap
+         id="feDisplacementMap11175"
+         in2="result91"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter11177"
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence11179"
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91" />
+      <feDisplacementMap
+         id="feDisplacementMap11181"
+         in2="result91"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter11183"
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence11185"
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91" />
+      <feDisplacementMap
+         id="feDisplacementMap11187"
+         in2="result91"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter11189"
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence11191"
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91" />
+      <feDisplacementMap
+         id="feDisplacementMap11193"
+         in2="result91"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter11433"
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence11435"
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91" />
+      <feDisplacementMap
+         id="feDisplacementMap11437"
+         in2="result91"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ebebeb"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.80093269"
+     inkscape:cx="519.81548"
+     inkscape:cy="454.39209"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer5"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     units="mm">
+    <sodipodi:guide
+       orientation="0,1"
+       position="256.02772,723.05758"
+       id="guide3795" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="21.225254,739.76254"
+       id="guide3797" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="545.60389,17.657084"
+       id="guide3823" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1036.4708,508.52401"
+       id="guide3825" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata9880">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="scritte"
+     style="display:inline">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot10688"
+       style="font-size:19.19562531px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Sans"><flowRegion
+         id="flowRegion10690"><rect
+           id="rect10692"
+           width="291.30164"
+           height="165.42368"
+           x="-3.8988745"
+           y="95.210373" /></flowRegion><flowPara
+         id="flowPara10694" /></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       id="text10696"
+       y="84.834129"
+       x="526.21851"
+       style="font-size:51.06072235px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Pointy;-inkscape-font-specification:Pointy"
+       xml:space="preserve"><tspan
+         id="tspan10698"
+         y="84.834129"
+         x="526.21851"
+         sodipodi:role="line">Il bottino dell'avventuriero</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="linee"
+     style="display:inline">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.41732323;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1022.1976,692.07209 c -3.5386,-58.61011 -2.2764,-118.80709 0.8628,-179.62476 -146.02364,4.53118 -296.21019,6.48249 -460.00403,0 4.93039,69.19954 1.32429,129.93352 0,192.93024 154.92601,-8.8707 286.25187,-1.02429 427.20888,0"
+       id="path4525"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4527"
+       d="m 579.40843,553.44934 c 156.49289,2.90101 295.92233,1.46466 435.23967,0"
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;display:inline" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;display:inline"
+       d="m 579.40843,589.54867 c 156.49289,2.90101 295.92233,1.46466 435.23967,0"
+       id="path4531"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4533"
+       d="m 579.40843,628.83646 c 156.49289,2.90101 295.92233,1.46467 435.23967,0"
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;display:inline" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;display:inline"
+       d="m 579.40843,667.10818 c 156.49289,2.90101 295.92233,1.46467 435.23967,0"
+       id="path4535"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.41732311;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 543.8017,687.74568 c -4.02748,-170.43568 -2.59085,-345.48592 0.98204,-522.34109 -166.19836,13.17646 -337.1348,18.85081 -523.558487,0 5.61158,201.2293 1.507249,377.8411 0,561.03285 176.330697,-25.79561 325.800617,-2.97857 486.232347,0"
+       id="path3867"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3887"
+       d="m 751.86135,471.88837 c 1.51225,-108.05298 0.76337,-204.32412 0,-300.51829"
+       style="fill:none;stroke:#000000;stroke-width:0.99999982px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;display:inline" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3897"
+       d="m 1022.1976,465.69813 c -3.5386,-98.8153 -2.2764,-200.30602 0.8628,-302.84322 -146.02364,7.63947 -296.21019,10.92933 -460.00403,0 4.93039,116.66884 1.32429,219.06493 0,325.27595 154.92601,-14.9558 286.25187,-1.72693 427.20888,0"
+       style="fill:none;stroke:#000000;stroke-width:1.41732335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="testo"
+     transform="translate(0,1.2188976e-5)"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:16.50951385px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Anke Calligraphic FG;-inkscape-font-specification:Anke Calligraphic FG"
+       x="282.39429"
+       y="161.42194"
+       id="text10756"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan10758"
+         x="282.39429"
+         y="161.42194">Saccone nero dell'immondizia</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4452"
+       y="508.09891"
+       x="792.55701"
+       style="font-size:16.50951385px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Anke Calligraphic FG;-inkscape-font-specification:Anke Calligraphic FG"
+       xml:space="preserve"><tspan
+         y="508.09891"
+         x="792.55701"
+         id="tspan4454"
+         sodipodi:role="line">Sacca dei Tesori</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.68621826px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Purisa;-inkscape-font-specification:Purisa Bold"
+       x="589.19617"
+       y="537.61023"
+       id="text5038"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="589.19617"
+         y="537.61023"
+         id="tspan5042">Platino</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5046"
+       y="574.50183"
+       x="589.03253"
+       style="font-size:11.68621826px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Purisa;-inkscape-font-specification:Purisa Bold"
+       xml:space="preserve"><tspan
+         id="tspan5048"
+         y="574.50183"
+         x="589.03253"
+         sodipodi:role="line">Oro</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.68621826px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Purisa;-inkscape-font-specification:Purisa Bold"
+       x="588.97412"
+       y="611.39343"
+       id="text5050"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="588.97412"
+         y="611.39343"
+         id="tspan5052">Elettro</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5054"
+       y="648.28497"
+       x="588.95074"
+       style="font-size:11.68621826px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Purisa;-inkscape-font-specification:Purisa Bold"
+       xml:space="preserve"
+       inkscape:transform-center-y="-28.740901"
+       inkscape:transform-center-x="1.1851648e-05"><tspan
+         id="tspan5056"
+         y="648.28497"
+         x="588.95074"
+         sodipodi:role="line">Argento</tspan></text>
+    <text
+       inkscape:transform-center-y="-28.740887"
+       xml:space="preserve"
+       style="font-size:11.68621826px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Purisa;-inkscape-font-specification:Purisa Bold"
+       x="589.07928"
+       y="685.17657"
+       id="text5058"
+       sodipodi:linespacing="125%"
+       inkscape:transform-center-x="1.2460923e-05"><tspan
+         sodipodi:role="line"
+         x="589.07928"
+         y="685.17657"
+         id="tspan5060">Rame</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3881"
+       y="152.68213"
+       x="793.26685"
+       style="font-size:16.50951385px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Anke Calligraphic FG;-inkscape-font-specification:Anke Calligraphic FG"
+       xml:space="preserve"><tspan
+         y="152.68213"
+         x="793.26685"
+         id="tspan3883"
+         sodipodi:role="line">Sacca rinforzata, ben conservata, e ben sorvegliata. Anti-soffio</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3903"
+       y="351.328"
+       x="768.44781"
+       style="font-size:11.68621826px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Purisa;-inkscape-font-specification:Purisa Bold"
+       xml:space="preserve"><tspan
+         id="tspan3905"
+         y="351.328"
+         x="768.44781"
+         sodipodi:role="line">Pozioni</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.68621826px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Purisa;-inkscape-font-specification:Purisa Bold"
+       x="768.44781"
+       y="186.68867"
+       id="text3907"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="768.44781"
+         y="186.68867"
+         id="tspan3909">Pergamene</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3911"
+       y="186.68867"
+       x="575.9856"
+       style="font-size:11.68621826px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Purisa;-inkscape-font-specification:Purisa Bold"
+       xml:space="preserve"><tspan
+         id="tspan3913"
+         y="186.68867"
+         x="575.9856"
+         sodipodi:role="line">Gemme</tspan></text>
+  </g>
+</svg>
